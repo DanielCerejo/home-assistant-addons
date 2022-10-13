@@ -1,0 +1,3 @@
+[submodule "BMS-ha"]
+	path = BMS-ha
+	url = git@github.com:DanielCerejo/BMS-ha.git
