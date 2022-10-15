@@ -1,3 +1,3 @@
-[submodule "BMS-ha"]
-	path = BMS-ha
-	url = https://github.com/DanielCerejo/BMS-ha.git
+[submodule "QUCC_BMS_Serial_HA_Monitor"]
+	path = QUCC_BMS_Serial_HA_Monitor
+	url = https://github.com/DanielCerejo/QUCC_BMS_Serial_HA_Monitor.git
