@@ -1,3 +1,6 @@
 [submodule "QUCC_BMS_Serial_HA_Monitor"]
 	path = QUCC_BMS_Serial_HA_Monitor
 	url = https://github.com/DanielCerejo/QUCC_BMS_Serial_HA_Monitor.git
+[submodule "addon-node-red"]
+	path = addon-node-red
+	url = https://github.com/DanielCerejo/addon-node-red.git
